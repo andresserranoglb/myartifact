@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">myArtifact</string>
+    <string name="artifacts_title">This is a activity inside my artifact</string>
+</resources>
